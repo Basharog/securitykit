@@ -12,3 +12,4 @@ Run scripts with sudo: `sudo ./scripts/security-audit.sh`
 
 ## Author
 [BASHAR] — Cloud Security Engineer in Training
+## disclaimer for authorised use only.
