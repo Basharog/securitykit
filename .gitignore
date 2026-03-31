@@ -3,6 +3,7 @@
 *.key              # Private keys
 *.p12              # Certificate files
 *.pfx              # Certificate files
+.env
 *.env              # Environment variables (passwords, API keys)
 .env*              # All .env variants
 *credentials*      # Anything with credentials in the name
