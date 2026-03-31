@@ -1,0 +1,15 @@
+# Never commit these to Git!
+*.pem              # Private keys
+*.key              # Private keys
+*.p12              # Certificate files
+*.pfx              # Certificate files
+.env               # Environment variables (passwords, API keys)
+.env.*             # All .env variants
+*credentials*      # Anything with credentials in the name
+*secret*           # Anything with secret in the name
+*password*         # Anything with password in the name
+/reports/*.txt     # Local reports (may contain sensitive data)
+__pycache__/       # Python cache
+*.pyc              # Python compiled files
+.DS_Store          # Mac files
+Thumbs.db          # Windows files
