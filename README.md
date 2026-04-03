@@ -14,3 +14,4 @@ Run scripts with sudo: `sudo ./scripts/security-audit.sh`
 [BASHAR] — Cloud Security Engineer in Training
 ## disclaimer for authorised use only.
 # updated by main repo
+# critical bug fix
